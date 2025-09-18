@@ -1,0 +1,6 @@
+#while loop
+
+initial_value_from_where_the_looping_will_start=0
+while(initial_value_from_where_the_looping_will_start<=5):
+  print(initial_value_from_where_the_looping_will_start)
+  initial_value_from_where_the_looping_will_start +=1

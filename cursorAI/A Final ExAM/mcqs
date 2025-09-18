@@ -1,0 +1,99 @@
+#prantik questions
+"""
+What is the output?
+
+"""
+
+"""lst1 = [1, 2, 3]
+lst2 = [1, 2, 3]
+lst3 = lst1
+if (lst1 is lst2) or (lst1 == lst2):
+    print("A")
+elif lst1 is lst3 and 4 not in lst1:
+    print("B")
+else:
+    print("C")
+"""
+
+
+"""x = False
+y = True
+
+if x or y and not x:
+    print("Yes")
+else:
+    print("No")"""
+
+
+"""x = 3
+while x:
+    print("Hi")
+    x -= 1"""
+
+"""nums = [1, 2, 3]
+for n in nums:
+    #print(nums)
+    print(nums.append(n+3))"""
+
+"""x=0
+while x<9:
+    print(x)
+    x+=2"""
+
+
+
+
+
+
+
+"""def group_words(words):
+    grouped = {}
+    for word in words:
+         first_letter = word[0]
+         if first_letter is not grouped:
+              grouped[first_letter] = []
+         grouped[first_letter].append(word)
+    return grouped
+
+words = ["apple", "banana", "cherry", "date", "elderberry"]
+print(group_words(words))"""
+
+
+
+   
+    
+"""def flatten(nested_list):
+    flattened_list = []
+    for sublist in nested_list:
+        for item in sublist:
+            flattened_list.append(item)
+    return flattened_list
+"""
+
+"""def flatten(nested_list):
+    result = []
+    for item in nested_list:
+        if isinstance(item, list):
+            result.extend(flatten(item))
+        else:
+            result.append(item)
+    return result
+# Example usage:
+example_list = [[1, 2, [3,[3]]], [4, 5], [6]]
+result = flatten(example_list)
+print(result)  # Output: [1, 2, 3, 4, 5, 6]"""
+
+
+"""def count_vowel(s):
+    for vowel in s:
+        if(vowel == a, b, c)
+        
+
+        vowel == a
+
+vow = "wasim"
+call = count_vowel(vow)
+print(call)
+"""
+
+
