@@ -113,7 +113,7 @@ Follow this order to build knowledge progressively:
 - [String Problems](5.exam-related-prob.py/string/str_probs.py)
 - [List Comprehension](5.exam-related-prob.py/list/list_comprehension.py)
 - [Dictionary Drills](5.exam-related-prob.py/dictionary/dict_prob.py)
-- [MCQs](5.exam-related-prob.py/mcq/)
+- [MCQs](https://github.com/me-ahnafnasim/python_problems/blob/main/A%20Final%20ExAM/all.md)
 
 ---
 
