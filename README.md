@@ -96,7 +96,7 @@ Follow this order to build knowledge progressively:
 ## 📚 Quick Navigation
 
 ### Basics
-- [All Built-in Functions](1.basic/1.all-build-in-function.md)
+- [All Built-in Functions](https://github.com/me-ahnafnasim/python_problems/blob/main/A%20Final%20ExAM/all.md)
 - [Function Comparisons](1.basic/2.built-in-function-comparison.md)
 - [Data Structure Features](1.basic/3.pre-build-ds-features.md)
 
